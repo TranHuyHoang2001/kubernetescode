@@ -5,7 +5,7 @@ https://github.com/TranHuyHoang2001/kubernetesmanifest
 
 # WorkFlow:
 
-![image](https://github.com/TranHuyHoang2001/kubernetescode/assets/93071557/2aaf4489-f892-4851-a00c-5c9a1602da22)
+![image](https://github.com/TranHuyHoang2001/kubernetescode/assets/93071557/e14571c7-b7b2-4798-9bf0-6d61f3d30f42)
 
 - Setup Jenskin server on GCP (Google Cloud Platform) VM instances.
 - Unlock Jenskin.
