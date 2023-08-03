@@ -1,2 +1,1 @@
 Flask==2.3.2
-Selenium==4.11.2
