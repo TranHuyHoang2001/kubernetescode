@@ -9,7 +9,7 @@ node {
 
     stage('Build image') {
   
-       app = docker.build("tranhoang280301/jenkin_github_gitops_k8s")
+       app = docker.build("tranhoang280301/deploy_kubernetes")
     }
 
     stage('Test image') {
