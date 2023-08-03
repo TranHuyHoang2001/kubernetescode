@@ -30,6 +30,9 @@ https://github.com/TranHuyHoang2001/kubernetesmanifest
 ![image](https://github.com/TranHuyHoang2001/kubernetescode/assets/93071557/b41a644c-0dce-430e-9162-5f70c8450b55)
 
 - In localhost:8080, login ArgoCD use admin and password generated.
+
+![image](https://github.com/TranHuyHoang2001/kubernetescode/assets/93071557/b755843e-861b-48fd-8fc9-522e61683af7)
+
 - Create new app.
 
 ![image](https://github.com/TranHuyHoang2001/kubernetescode/assets/93071557/4a99ba49-9eaf-4ffc-b2b6-9ddf096796b1)
